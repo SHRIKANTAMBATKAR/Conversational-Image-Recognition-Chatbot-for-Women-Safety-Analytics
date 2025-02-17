@@ -1,0 +1,2 @@
+# Conversational-Image-Recognition-Chatbot-for-Women-Safety-Analytics
+This project develops a Conversational Chatbot that uses image recognition to enhance women's safety. The chatbot analyzes uploaded images to detect potential threats and provides safety recommendations in real time. Powered by AI/ML and NLP, the system aims to assist women by offering immediate insights and alerts for safer environments.
