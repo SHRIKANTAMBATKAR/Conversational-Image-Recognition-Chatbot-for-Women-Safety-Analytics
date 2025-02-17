@@ -34,3 +34,5 @@ The chatbot will analyze the image and provide immediate safety advice or alerts
 We welcome contributions! 🙌 Fork the repo, create a new branch, and send us a pull request with your improvements! 💡
 
 ![Screenshot 2025-02-17 172729](https://github.com/user-attachments/assets/a1e85205-580f-4a8b-96fd-fd0e5a1dbf85)
+
+![Screenshot 2025-02-17 172801](https://github.com/user-attachments/assets/161c74a6-69c9-4d35-a5e8-5bb54cd67b94)
